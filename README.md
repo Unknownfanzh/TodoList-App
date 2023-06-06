@@ -22,7 +22,7 @@ This is a simple TodoList application built using Node.js and MongoDB. It allows
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/todolist-app.git
+git clone https://github.com/Unknownfanzh/TodoList-app
 ```
 
 2. Install dependencies:
@@ -46,7 +46,7 @@ npm start
 
 ## Deployment
 
-The application is deployed to Heroku. You can access the deployed app by visiting the following URL: [Your Heroku App URL](https://your-heroku-app-url).
+The application is deployed to Heroku. You can access the deployed app by visiting the following URL: [Your Heroku App URL](https://tranquil-hollows-73226.herokuapp.com).
 
 ## Contributing
 
